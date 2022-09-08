@@ -5,38 +5,38 @@ global.thum = fs.readFileSync("./media/zaki.jpg")
 
 global.autoReadAll = true 
 
-// '6285878313791' ganti nomor kalian '628xxxxxx'
-//KiZakiXD ganti nama kalian xxxxz
+// '6285732912895' ganti nomor kalian '628xxxxxx'
+//Rengga ganti nama kalian xxxxz
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6285878313791']
-global.pengguna = 'KiZakiXD'
+global.owner = ['6285732912895']
+global.pengguna = 'Rengga'
 global.premium = []
-global.author = 'KiZakiXD'
-global.pemilik = ['6285878313791'] 
-global.ownernomer = '6285878313791'
-global.ownername = 'KiZakiXD'
-global.botname = 'Chitanda - MD'
+global.author = 'Rengga'
+global.pemilik = ['6285732912895'] 
+global.ownernomer = '6285732912895'
+global.ownername = 'Rengga'
+global.botname = 'BotzRengga'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6285878313791'
-global.footer = '𝘊 𝘩 𝘪 𝘵 𝘢 𝘯 𝘥 𝘢 - 𝘔 𝘋'
+global.meki = '6285732912895'
+global.footer = 'R E N G G A'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'Namalu' //Ubah nama kalian buat nambahin di tqtq bot
+global.namalu = 'RenggaXD' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
 global.yt = 'https://www.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
 global.ig = 'https://instagram.com/iamkizakixd'
-global.gc = 'https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
-global.dana = '00000'
-global.gopay = '0000'
-global.wame = 'wa.me/6285878313791'
-global.email = 'helloiamkizakixd@gmail.com'
-global.region = 'Indonesia'
+global.gc = 'https://chat.whatsapp.com/JeGceHv8nnO7sexIqfF27F' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
+global.dana = '085791608526'
+global.gopay = '-'
+global.wame = 'wa.me/6285732912895'
+global.email = 'cs.renggahosting@gmail.com'
+global.region = 'Mars'
 global.link = 'nekopoi.care'
-global.sc = 'https://bit.ly/SubscribeFLOB'
-global.packname = '"{\nAuthor: KiZakiXD"\n"Bot Number: 6285848376737"\n"Bot Name: Chitanda - MD"\n"Instagram: @iamkizakixd"\n}' 
+global.sc = '-'
+global.packname = '"{\nAuthor: Rengga"\n"Bot Number: -"\n"Bot Name: BotzRengga - MD"\n"Instagram: @renggastorereal"\n}' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
